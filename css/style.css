@@ -1,0 +1,315 @@
+/*============    ШРИФТЫ    ===========*/
+@font-face {
+    font-family: 'palai';
+    src: url('fonts/palai.eot');
+    src: url('fonts/palai.eot') format('embedded-opentype'),
+         url('fonts/palai.woff2') format('woff2'),
+         url('fonts/palai.woff') format('woff'),
+         url('fonts/palai.ttf') format('truetype'),
+         url('fonts/palai.svg#palai') format('svg');
+}
+@font-face {
+    font-family: 'newcenturyschoolbookitalic';
+    src: url('fonts/newcenturyschoolbookitalic.eot');
+    src: url('fonts/newcenturyschoolbookitalic.eot') format('embedded-opentype'),
+         url('fonts/newcenturyschoolbookitalic.woff2') format('woff2'),
+         url('fonts/newcenturyschoolbookitalic.woff') format('woff'),
+         url('fonts/newcenturyschoolbookitalic.ttf') format('truetype'),
+         url('fonts/newcenturyschoolbookitalic.svg#newcenturyschoolbookitalic') format('svg');
+}
+@font-face {
+    font-family: 'segoesc';
+    src: url('fonts/segoesc.eot');
+    src: url('fonts/segoesc.eot') format('embedded-opentype'),
+         url('fonts/segoesc.woff2') format('woff2'),
+         url('fonts/segoesc.woff') format('woff'),
+         url('fonts/segoesc.ttf') format('truetype'),
+         url('fonts/segoesc.svg#segoesc') format('svg');
+}
+@font-face {
+    font-family: 'palabi';
+    src: url('fonts/palabi.eot');
+    src: url('fonts/palabi.eot') format('embedded-opentype'),
+         url('fonts/palabi.woff2') format('woff2'),
+         url('fonts/palabi.woff') format('woff'),
+         url('fonts/palabi.ttf') format('truetype'),
+         url('fonts/palabi.svg#palabi') format('svg');
+}
+@font-face {
+    font-family: 'palatinolinotype';
+    src: url('fonts/palatinolinotype.eot');
+    src: url('fonts/palatinolinotype.eot') format('embedded-opentype'),
+         url('fonts/palatinolinotype.woff2') format('woff2'),
+         url('fonts/palatinolinotype.woff') format('woff'),
+         url('fonts/palatinolinotype.ttf') format('truetype'),
+         url('fonts/palatinolinotype.svg#palatinolinotype') format('svg');
+}
+@font-face {
+    font-family: 'newcenturyschoolbook';
+    src: url('fonts/newcenturyschoolbook.eot');
+    src: url('fonts/newcenturyschoolbook.eot') format('embedded-opentype'),
+         url('fonts/newcenturyschoolbook.woff2') format('woff2'),
+         url('fonts/newcenturyschoolbook.woff') format('woff'),
+         url('fonts/newcenturyschoolbook.ttf') format('truetype'),
+         url('fonts/newcenturyschoolbook.svg#newcenturyschoolbook') format('svg');
+}
+@font-face {
+    font-family: 'pala';
+    src: url('fonts/pala.eot');
+    src: url('fonts/pala.eot') format('embedded-opentype'),
+         url('fonts/pala.woff2') format('woff2'),
+         url('fonts/pala.woff') format('woff'),
+         url('fonts/pala.ttf') format('truetype'),
+         url('fonts/pala.svg#pala') format('svg');
+}
+.boldit{
+	font-family:"palabi";
+}
+.reg{
+	font-family: "segoesc";
+}
+.ord{
+	font-family: "newcenturyschoolbook";
+}
+
+/*============    Header   ===========*/
+header {
+	font-family: "segoesc";
+	background-color:#808080;
+	padding-top: 20px;	
+	height: 100px;
+}	
+header h3{color: #ffffff;
+}
+#nav
+{
+	font-family: "segoesc";
+	background-color:#808080;
+	top:100px;
+	position: fixed;
+	z-index: 200;
+	width: 100%;
+	color:#ffffff;
+}
+header a{color:white;}
+.desc{color:#f0f192;}
+nav li { display: inline-block;
+			text-align: center;
+			color: #ffffff ;
+			font-size: 28px;
+			text-transform: uppercase;
+			padding-right: 10px;
+			padding-left:10px;
+			padding-top: 20px;
+			}
+/*============    main    ===========*/
+button{
+	font-family:"palabi" ;
+color:silver;}
+.desc{font-family: "segoesc";
+font-size: 40px;
+margin-top:40px;}
+#main{background-image: url(../img/background-pic-1.png);
+background-color: purple;
+margin-top: 70px;}
+.exp{color:#050505;
+margin-left: 370px;
+margin-top: 4px;
+border: 2px solid #000;}
+.card{
+	margin-top: 40px;
+	border:1px solid #000;
+}
+#overall3
+{
+	margin-bottom: 5px;
+}
+#summary3
+{
+	margin-bottom: 10px;
+}
+#order
+{
+font-size: 35px;
+margin-left: 120px;
+color: #fbfbf9;
+background-color: #e18c44;}
+h1{font-family: "palabi";
+color: #fbfbf9;
+padding-top: 50px;
+border:4px solid #fff343;
+padding: 5px;
+font-size: 41px;
+}
+section h2{font-family:"newcenturyschoolbook";
+color:white;}
+button:focus{outline: none;}
+/*============    ШРИФТЫ    ===========*/
+ a:hover{text-decoration: none;}
+ a:focus{text-decoration: none;}
+ a:visited{text-decoration: none;}
+ a:active{text-decoration: none;}
+/*============    items    ===========*/
+
+/*============    ШРИФТЫ    ===========*/
+
+/*============    ШРИФТЫ    ===========*/
+
+/*============    ШРИФТЫ    ===========*/
+
+/*============    ШРИФТЫ    ===========*/
+
+/*============    ШРИФТЫ    ===========*/
+
+/*============    ШРИФТЫ    ===========*/
+
+/*============    ПОДВАЛ    ===========*/
+footer{font-family: "newcenturyschoolbook";
+padding-top: 50px;
+padding-bottom :10px;
+background-color: #666;}
+footer p {color: #fff;}
+footer h4{color:#fff;}
+footer h6{color:#fff;}
+#name {padding-bottom: 0px;}
+#pnumber{padding-right: 170px;}
+#adress{
+padding-left: 250px;}
+#pnumtext{padding-right: 130px;}
+#City{padding-left:249px;}
+
+/*============    	ВСПЛЫВАЮЩИЕ ОКНА    ===========*/
+.modal-dialog{margin-top:10%;}
+.header_modal{text-transform: uppercase;
+color:#666;
+font-family: "newcenturyschoolbook";}
+
+.modal-header{border-bottom: none;
+margin-top: -50px;}
+#close {text-shadow: none;
+color:#fff;
+opacity: 0.9;
+margin-right: -30px;}
+.modal-content{
+	border-radius: 0;
+}
+input[name="name"]{
+	padding: 25px;
+	padding-left: 30px;
+	border-radius: 0;
+	border:solid 1px #cccccc;
+	font-family: "newcenturyschoolbook";
+	opacity:0.5;
+}
+input[name="email"]
+{
+	margin-top: 10px;
+	padding: 25px;
+	padding-left: 15px;
+	border-radius: 0;
+	border:solid 1px #cccccc;
+	font-family: "newcenturyschoolbook";
+	opacity:0.5;
+}
+input[name="phone"]
+{
+	margin-top: 10px;
+	padding: 25px;
+	padding: left: 15px;
+	border-radius: 0;
+	border:solid 1px #cccccc;
+	font-family: "newcenturyschoolbook";
+	opacity:0.5;
+}
+output {
+	display: block;
+	border:solid 1px #666;
+	height: 38px;
+	text-align: center;
+}
+#summary1
+{
+	margin-bottom: 30px;
+}
+button[type="submit"]{
+	margin-top: 10px;
+	background-color: #ff9933;
+	color:#fff;
+	border:1px solid #ff9933;
+	padding:14px 20px;
+	text-transform: uppercase;
+	width: 100%;
+	font-family: "newcenturyschoolbook";
+	height: 100%;
+}
+button:hover{background-color: #fc8b1a;}
+form:focus{opacity :1;}
+form:hover{opacity :1;}
+/*    1 */
+.header_modal_info {
+	text-transform: uppercase;
+	margin-left: 30px;
+	color: #666;
+	font-family: "newcenturyschoolbook"
+
+}
+.modal_description{
+	margin-left: 20px; 
+}
+/*================ Minus===============*/
+.minus{
+	
+	margin-bottom: 25px;
+	color:#666;
+}
+/*=================== Plus================*/
+.add
+{
+	margin-bottom: 25px;
+	
+}
+p
+{
+	margin-bottom: 30px;
+}
+.img-desc
+{
+	margin-bottom: 15px;
+}
+.colour_icons
+{
+	margin-top: 20px;
+}
+#blue
+{
+	border:1px solid #666;
+	padding-top:3px;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-bottom: 3px;
+	width: 50%;
+}
+.count
+{
+	border:1px solid #666;
+	padding-top:3px;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-bottom: 3px;
+	margin-top: 25px;
+
+}
+#summary
+{
+	margin-bottom: 10px;
+	width:40%;
+}
+footer h6{
+	color:#fff123;
+}
+/*============    	АДАПТИВ    ===========*/
+@import "media.css" screen;
+
+
+
+

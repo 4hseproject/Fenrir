@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'palabi';
+    src: url('fonts/palabi.eot');
+    src: url('fonts/palabi.eot') format('embedded-opentype'),
+         url('fonts/palabi.woff2') format('woff2'),
+         url('fonts/palabi.woff') format('woff'),
+         url('fonts/palabi.ttf') format('truetype'),
+         url('fonts/palabi.svg#palabi') format('svg');
+}

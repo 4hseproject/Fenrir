@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'segoesc';
+    src: url('fonts/segoesc.eot');
+    src: url('fonts/segoesc.eot') format('embedded-opentype'),
+         url('fonts/segoesc.woff2') format('woff2'),
+         url('fonts/segoesc.woff') format('woff'),
+         url('fonts/segoesc.ttf') format('truetype'),
+         url('fonts/segoesc.svg#segoesc') format('svg');
+}

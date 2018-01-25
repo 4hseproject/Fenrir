@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'pala';
+    src: url('fonts/pala.eot');
+    src: url('fonts/pala.eot') format('embedded-opentype'),
+         url('fonts/pala.woff2') format('woff2'),
+         url('fonts/pala.woff') format('woff'),
+         url('fonts/pala.ttf') format('truetype'),
+         url('fonts/pala.svg#pala') format('svg');
+}

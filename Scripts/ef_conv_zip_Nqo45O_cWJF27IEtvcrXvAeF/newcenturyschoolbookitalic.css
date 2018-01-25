@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'newcenturyschoolbookitalic';
+    src: url('fonts/newcenturyschoolbookitalic.eot');
+    src: url('fonts/newcenturyschoolbookitalic.eot') format('embedded-opentype'),
+         url('fonts/newcenturyschoolbookitalic.woff2') format('woff2'),
+         url('fonts/newcenturyschoolbookitalic.woff') format('woff'),
+         url('fonts/newcenturyschoolbookitalic.ttf') format('truetype'),
+         url('fonts/newcenturyschoolbookitalic.svg#newcenturyschoolbookitalic') format('svg');
+}

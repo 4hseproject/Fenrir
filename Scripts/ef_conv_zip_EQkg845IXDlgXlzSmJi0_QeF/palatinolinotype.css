@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'palatinolinotype';
+    src: url('fonts/palatinolinotype.eot');
+    src: url('fonts/palatinolinotype.eot') format('embedded-opentype'),
+         url('fonts/palatinolinotype.woff2') format('woff2'),
+         url('fonts/palatinolinotype.woff') format('woff'),
+         url('fonts/palatinolinotype.ttf') format('truetype'),
+         url('fonts/palatinolinotype.svg#palatinolinotype') format('svg');
+}
